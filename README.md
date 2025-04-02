@@ -23,6 +23,7 @@ destination is handled by the IP (Internet protocol).
 
 IP protocol is responsible to takes care the addressing conventions and ensuring the delivery of the packet at the correct destination across multiple nodes or even across multiple networks.  
 
+
 **Internet**
 
 The Internet is “the global system of interconnected computer networks that are linked together by devices called routers and use a common set of protocols for data transmission known as TCP/IP
@@ -39,16 +40,42 @@ We all heard a term called World Wide Web, so What does it mean?
 The WWW is a tool to used exchange the information between a internet and computer and by tyinng them together to vasst connection. Web and internet are not the same web uses internet to pass the data. The Web is a collection of interconnected documents which are web pages and also other web resources, linked by hyperlinks and URLs.
 
 
+
+**URLs**
+
+URLs are the uniform resource locator, it is a fundamental unique identifier of resources available on the web ex, images, and sound files, hypertext pages etc. It is used as the address of the documents available on the World Wide Web. Due to its uniqueness it will help to locate a particular resource. The standard format of a URL is – protocol://hostname/other_information.  
+
+
+
 **HTTP**
 
-hypertext transfer protocol, this is a protocol being used for
-communication. For example the standard URL is http://www.google.com, the http protocol will be the prefix of standard URL. the http protocol is used to access hypertext documents on the World Wide Web. 
-
-URLs are the uniform resource locator, it is a unique identifier that is contained all the resources available on the internet. due to its uniqueness it will help to locate a particular resource. 
+A protocols are the specifications of the flow of information in a network. These protocols required for accessing the resources available on the web is called Hyper Text Transfer Protocol
+(HTTP). Hypertext transfer protocol, this is a protocol being used for communication. For example the standard URL is http://www.google.com, the http protocol will be the prefix of standard URL. the http protocol is used to access hypertext documents on the World Wide Web. 
 
 
+**Websites**
+
+These are the collection of web pages which will be in marup language. For example Google have www.google.come as their website having 'com' as the domain name. The locations on the WWW are the websites which holds resources which people can request and access when required. First page of the web site is known as home page of that particular website.
 
 
+**Web Server**
+
+The hosted websites on a computer is known as webserver. To access the resource stored by them from antwhere in the world these servers should require constant conectivity with the internet. A unique address is provided to a web server which is required to access the contents of the server. The unique address is the identifier for the server and is termed as IP Address.  
+
+**Web Browser**
+
+It is a software which is required to access the resources available on the WWW. In order to access any website webbrowser is neccessory. 
+Examples of web browsers are: Microsoft Internet Explorer, Google Chrome, Mozilla Firefox, Netscape Navigator, etc. 
+
+
+**HTML**
+
+HTML refers to hyper text marup language. it can be understood as a subset of SGML. (Standard Generalized Mark-Up Language). It is the development language of the websites available on the web   
+
+
+ **Hyperlink** 
+
+These are the access points to the other resources of the particular website or other website. It is also refered as links sometimes beacause it is also used to navigate, it will be a clickable textual links, icons or buttons in an electronic deveopment. So we click hyperlink to access the linked resource. 
 
 
 
